@@ -17,3 +17,6 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var Gatti = 44 
+var PerFila = 6
